@@ -11,6 +11,10 @@ public class ResourceRead {
 		readTest1();
 		
 		readTest2();
+		
+		//Exception
+//		File file = new File(ResourceRead.class.getResource("../test3.txt").getFile());
+//		ReadUtil.readContext(file);
 	}
 
 	public static void readTest2() {

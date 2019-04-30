@@ -12,6 +12,13 @@ public class FileRead {
 		readTest1();
 		
 		readTest2();
+		
+		readTest3();
+	}
+
+	public static void readTest3() {
+		File file = new File("test3.txt");
+		ReadUtil.readContext(file);
 	}
 
 	public static void readTest2() {
