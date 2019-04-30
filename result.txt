@@ -1,0 +1,2 @@
+D:\eclipse-workspace\SrcTest\src\test1.txt
+D:\eclipse-workspace\SrcTest\src\test\test2.txt
